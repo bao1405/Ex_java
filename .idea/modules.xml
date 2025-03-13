@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookManagement/BookManagement.iml" filepath="$PROJECT_DIR$/BookManagement/BookManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/BookManagement/BookManagement2.iml" filepath="$PROJECT_DIR$/ss11/Java/BookManagement/BookManagement2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss01/ss01.iml" filepath="$PROJECT_DIR$/ss01/ss01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss02/ss02.iml" filepath="$PROJECT_DIR$/ss02/ss02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss03/ss03.iml" filepath="$PROJECT_DIR$/ss03/ss03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss04/ss04.iml" filepath="$PROJECT_DIR$/ss04/ss04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss05/ss05.iml" filepath="$PROJECT_DIR$/ss05/ss05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/ss06/ss06.iml" filepath="$PROJECT_DIR$/ss11/Java/ss06/ss06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/ss07/ss07.iml" filepath="$PROJECT_DIR$/ss11/Java/ss07/ss07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/ss08/ss08.iml" filepath="$PROJECT_DIR$/ss11/Java/ss08/ss08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/ss09/ss09.iml" filepath="$PROJECT_DIR$/ss11/Java/ss09/ss09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss09/ss10.iml" filepath="$PROJECT_DIR$/ss09/ss10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/java/ss11.iml" filepath="$PROJECT_DIR$/ss11/Java/java/ss11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/ss12.iml" filepath="$PROJECT_DIR$/ss11/ss12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss10/ss13.iml" filepath="$PROJECT_DIR$/ss10/ss13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/ss02/ss3.iml" filepath="$PROJECT_DIR$/ss11/Java/ss02/ss3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/ss03/ss4.iml" filepath="$PROJECT_DIR$/ss11/Java/ss03/ss4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/ss04/ss5.iml" filepath="$PROJECT_DIR$/ss11/Java/ss04/ss5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/Java/ss05/ss6.iml" filepath="$PROJECT_DIR$/ss11/Java/ss05/ss6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss06/ss7.iml" filepath="$PROJECT_DIR$/ss06/ss7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss07/ss8.iml" filepath="$PROJECT_DIR$/ss07/ss8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss08/ss9.iml" filepath="$PROJECT_DIR$/ss08/ss9.iml" />
+    </modules>
+  </component>
+</project>
